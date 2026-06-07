@@ -1,17 +1,15 @@
-# network_scanner
+Esta es la version de prototipo de Network Scanner, creada para facilmente registrar y archivar redes.
 
-A new Flutter project.
+En su momento, incluye las funcionalidades de
 
-## Getting Started
+-Escanear QR y enlazarlos a componentes
+-Establecer las conexiones que existen entre los componentes por facil referencia
+-Mostrar la informacion de los componentes, incluyendo tipo, marca, modelo, fecha de escaneo, y componentes conectados
+-Ver la topologia de conexiones
+-Buscar componentes por atributos, incluyendo IP, ubicacion, marca..etc
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+INSTRUCCIONES DE USO:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Escanear QR
+2. Introducir informacion, solo el nombre y tipo son necesarios.
